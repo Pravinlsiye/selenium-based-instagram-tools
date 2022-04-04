@@ -9,8 +9,8 @@ from selenium.webdriver.common.by import By
 from time import sleep
 
 def login(driver):
-    username = "cl_me_krrish"  # <username here>
-    password = "Gokul@321"  # <password here>
+    username = "******"  # <username here>
+    password = "******"  # <password here>
 
     # Load page
     driver.get("https://www.instagram.com/accounts/login/")
